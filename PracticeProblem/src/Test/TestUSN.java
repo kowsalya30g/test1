@@ -7,6 +7,7 @@ public class TestUSN {
 	{
 		Scanner sc = new Scanner(System.in);
 		String number = sc.nextLine();
+		System.out.println("test input is ");
 		System.out.println(testUsn(number));
 		System.out.println("hellooooo");
 		System.out.println("mindtree");
