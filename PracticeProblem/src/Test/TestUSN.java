@@ -9,6 +9,7 @@ public class TestUSN {
 		String number = sc.nextLine();
 		System.out.println(testUsn(number));
 		System.out.println("hellooooo");
+		System.out.println("mindtree");
 		System.out.println("welcome");
 	}
 	 public static String testUsn(String number) {
