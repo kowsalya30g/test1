@@ -11,6 +11,9 @@ public class TestUSN {
 		System.out.println("hellooooo");
 		System.out.println("mindtree");
 		System.out.println("welcome");
+		int a =2;
+		int b = 3;
+		System.out.println(a+b);
 		System.out.println("hii");
 	}
 	 public static String testUsn(String number) {
