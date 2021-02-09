@@ -10,6 +10,7 @@ public class TestUSN {
 		System.out.println(testUsn(number));
 		System.out.println("hellooooo");
 		System.out.println("welcome");
+		System.out.println("mindtree.com");
 	}
 	 public static String testUsn(String number) {
 		String positive = "Success";
